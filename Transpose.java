@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 //The transpose of a given matrix is formed by interchanging the rows and columns of a matrix.
-public class Transpose {
+class Transpose {
 
 	static Scanner sc = new Scanner(System.in);
 	public static void main(String[] args) {
