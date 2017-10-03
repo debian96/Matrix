@@ -6,7 +6,7 @@ right and 0’s in all other positions. If it satisfies the structure as explain
 then the matrix is called as identity /unit matrix.*/
 
 
-public class IdentityMatrix {
+class IdentityMatrix {
 
 	static Scanner sc = new Scanner(System.in);
 	public static void main(String[] args) {
