@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 //The trace of the square matrix is the sum of the main diagonal
- class Trace {
+ public class Trace {
 
 	static Scanner sc = new Scanner(System.in);
 	public static void main(String[] args) {
