@@ -34,6 +34,7 @@ public class AntiClock_Rotation_Transpose {
 				System.out.println();
 			}
 			
+			
 			//Transpose
 			
 			for (int i = 0; i < r1; i++) {
