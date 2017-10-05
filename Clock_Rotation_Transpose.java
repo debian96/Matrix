@@ -68,6 +68,7 @@ public class Clock_Rotation_Transpose {
 			}
 		}else {
 			System.out.println("Provide a square matrix");
+			
 		}
 	}
 }
